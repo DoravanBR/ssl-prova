@@ -28,7 +28,7 @@ ls -lh
 
 **ls -lh** -> lista os arquivos de forma detalhada dentro do diretorio
 - **ls** -> lista arquivos e diretórios dentro do diretório origem
-- ** -l** -> long format - mostra os arquivos em formato detalhado contendo permissões, tamanho, owner, group, etc.
+- **-l** -> long format - mostra os arquivos em formato detalhado contendo permissões, tamanho, owner, group, etc.
 - **-h** -> human readable - mostra o tamanho do arquivo em formato legível para humanos.
 
 
